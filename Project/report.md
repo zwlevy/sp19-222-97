@@ -8,7 +8,9 @@
     <br></br>
 	It is perhaps expectant that as the player plays the game more, they are to improve. What I seek is to map out using linear regression modelling is to pinpoint the correlations between score improvement and play time. Is it a exactly linear? What is the general relation between them? Can we predict how much time a person has to spend on the game to improve using computer simulations? 
     <br></br>
-	Several things need to be considered in the collection of data for the game. Most important perhaps is score and game time. Further experimentation within the C++ code of Blocks could pave the way for multiple users to log  and upload their statistics, individualizing models for each person. It would be very interesting to possibly map out predictable rates at which people improve in skill for the game and how long they have to play to get their score.
+	Several things need to be considered in the collection of data for the game. Most important perhaps is score and game time. Further experimentation within the C++ code of Blocks could pave the way for multiple users to log  and upload their statistics, individualizing models for each person. It would be very interesting to possibly map out predictable rates at which people improve in skill for the game and how long they have to play to get their score. There are many factors as to how a person will perform, a huge amount of it being environmental. The main correlation which I wish to experiment with is simply time and score.
     <br></br>
-	There are many factors as to how a person will perform, a huge amount of it being environmental. The main correlation which I wish to experiment with is simply time and score.
-	
+    **References and Links**
+    * https://mike42.me/blog/2015-03-how-to-run-tetris-on-your-raspberry-pi
+    * https://github.com/mike42/blocks
+    * https://www.adafruit.com/product/1601
