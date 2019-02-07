@@ -13,5 +13,9 @@
     **References and Links**
     <br></br>
     1. https://mike42.me/blog/2015-03-how-to-run-tetris-on-your-raspberry-pi
+    <br></br>
     2. https://github.com/mike42/blocks
+    <br></br>
     3. https://www.adafruit.com/product/1601
+    <br></br>
+    4. https://www.reuters.com/article/us-videogames-tetris/at-25-tetris-still-eyeing-growth-idUSTRE5510V020090602
