@@ -11,6 +11,7 @@
 	Several things need to be considered in the collection of data for the game. Most important perhaps is score and game time. Further experimentation within the C++ code of Blocks could pave the way for multiple users to log  and upload their statistics, individualizing models for each person. It would be very interesting to possibly map out predictable rates at which people improve in skill for the game and how long they have to play to get their score. There are many factors as to how a person will perform, a huge amount of it being environmental. The main correlation which I wish to experiment with is simply time and score.
     <br></br>
     **References and Links**
-    * https://mike42.me/blog/2015-03-how-to-run-tetris-on-your-raspberry-pi
-    * https://github.com/mike42/blocks
-    * https://www.adafruit.com/product/1601
+    <br></br>
+    1. https://mike42.me/blog/2015-03-how-to-run-tetris-on-your-raspberry-pi
+    2. https://github.com/mike42/blocks
+    3. https://www.adafruit.com/product/1601
