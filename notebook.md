@@ -1,5 +1,4 @@
 <h1>Week 1</h1>
-<br></br>
 <ul>
   <li>Learned how to make and install useful Python tools such as pyenv and pip.</li>
   <li>Learned proper directory structure for this course.</li>
@@ -7,7 +6,6 @@
 </ul>
 
 <h1>Week 2</h1>
-<br></br>
 <ul>
   <li>Learned how to use dictionaries.</li>
   <li>Learned how to make packages in pip.</li>
@@ -15,13 +13,11 @@
 </ul>
 
 <h1>Week 3</h1>
-<br></br>
 <ul>
   <li>Attended lectures.</li>
 </ul>
 
 <h1>Week 4</h1>
-<br></br>
 <ul>
   <li>Researched and found a potential project for this course.</li>
   <li>Drafted a project proposal.</li>
@@ -30,14 +26,12 @@
 </ul>
 
 <h1>Week 5</h1>
-<br></br>
 <ul>
   <li>Pushed a final draft for project proposal.</li>
   <li>Attended lectures.</li>
 </ul>
 
 <h1>Week 6</h1>
-<br></br>
 <ul>
   <li>Reorganized this repo to be properly formatted and effectively implemented.<li>
   <li>Attended lectures.</li>
