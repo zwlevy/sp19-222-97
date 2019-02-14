@@ -33,6 +33,7 @@
 
 <h1>Week 6</h1>
 <ul>
-  <li>Reorganized this repo to be properly formatted and effectively implemented.<li>
+  <li>Reorganized this repo to be properly formatted and effectively implemented.</li>
+  <li>Attempted to build a simple REST service with swagger and HTML/CSS</li>
   <li>Attended lectures.</li>
 </ul>
