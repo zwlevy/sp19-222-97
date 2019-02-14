@@ -35,5 +35,6 @@
 <ul>
   <li>Reorganized this repo to be properly formatted and effectively implemented.</li>
   <li>Attempted to build a simple REST service with swagger and HTML/CSS</li>
+  <li>Successfully made a tutorial REST service that holds usernames and date added timestamps.</li>
   <li>Attended lectures.</li>
 </ul>
